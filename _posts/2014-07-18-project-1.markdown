@@ -1,9 +1,9 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: CADMUS Prototype 1.0
+subtitle: Wearable Dictation Device
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2023-04-20
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
