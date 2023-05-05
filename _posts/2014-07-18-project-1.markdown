@@ -1,15 +1,15 @@
 ---
-title: CADMUS Prototype 1.0
+title: CADMUS Prototype 0.0
 subtitle: Wearable Dictation Device
 layout: default
 modal-id: 1
 date: 2023-04-20
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: Pt_1.jpg
+thumbnail: expl.png
 alt: image-alt
 project-date: April 2023
 client: Start Bootstrap
 category: Wearable
-description: This is the latest version of our device.
+description: This is the first version of our device.
 
 ---
