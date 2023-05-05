@@ -2,7 +2,7 @@
 title: CADMUS Prototype 0.0
 subtitle: Wearable Dictation Device
 layout: default
-modal-id: 3
+modal-id: 1
 date: 2023-03-12
 img: img_0-0.png
 thumbnail: thumb_0-0.png
