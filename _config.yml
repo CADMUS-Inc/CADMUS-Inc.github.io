@@ -22,7 +22,7 @@ people:
 
 - name: Brad Greer
   pic: 2
-  position: System Engineer
+  position: Secretary
   social:
     - title: twitter
       url: #
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Mihir Nagaraj
+- name: Kevin Ge
   pic: 3
-  position: Mechanical Engineer
+  position: Project Manager
   social:
     - title: twitter
       url: #
@@ -53,7 +53,7 @@ social:
   - title: bitbucket 
     url: #
   - title: github
-    url: http://github.com/CADMUS-Inc
+    url: www.cadmusanalytics.com
 
 # Postal address (add as many lines as necessary)
 address:

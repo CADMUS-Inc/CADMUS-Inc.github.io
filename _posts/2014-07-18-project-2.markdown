@@ -1,15 +1,15 @@
 ---
-title: CADMUS Prototype 1.0
-subtitle: Wearable Dictation Device
+title: ePCR Auditor
+subtitle: Application
 layout: default
 modal-id: 2
-date: 2023-04-20
-img: img_1-0.png
-thumbnail: thumb_1-0.png
+date: 2023-06-02
+img: img_2.jpg
+thumbnail: img_2.jpg
 alt: image-alt
-project-date: April 2023
+project-date: Summer 2023
 # client: Start Bootstrap
 # category: Wearable
-description: This is the latest version of our device.
+description: Scan your ePCR for missing justification, typos, and other errors.
 
 ---
