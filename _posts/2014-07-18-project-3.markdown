@@ -4,8 +4,8 @@ subtitle: Application
 layout: default
 modal-id: 3
 date: 2023-06-01
-img: img_1.jpg
-thumbnail: img_1.jpg
+img: img_3.png
+thumbnail: img_3.png
 alt: image-alt
 project-date: Summer 2023
 # client: Start Bootstrap
