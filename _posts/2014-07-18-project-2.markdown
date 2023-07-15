@@ -1,15 +1,17 @@
 ---
-title: ePCR Auditor
+title: Narrative Assistant
 subtitle: Application
 layout: default
 modal-id: 2
 date: 2023-06-02
-img: img_2.jpg
-thumbnail: img_2.jpg
+# img: img_2.jpg
+# thumbnail: img_2.jpg
+img: New_2.png
+thumbnail: New_2.png
 alt: image-alt
 project-date: Summer 2023
 # client: Start Bootstrap
 # category: Wearable
-description: Scan your ePCR for missing justification, typos, and other errors.
+description: Check your narratives for missing justification, typos, and other errors. Receive specific suggestions for improvement.
 
 ---

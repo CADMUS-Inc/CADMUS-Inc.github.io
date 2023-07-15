@@ -1,15 +1,17 @@
 ---
-title: Narrative Assistant
+title: ePCR Auditor
 subtitle: Application
 layout: default
 modal-id: 1
 date: 2023-06-03
-img: img_1.jpg
-thumbnail: img_1.jpg
+# img: img_1.jpg
+# thumbnail: img_1.jpg
+img: New_1.png
+thumbnail: New_1.png
 alt: image-alt
 project-date: Summer 2023
 # client: Start Bootstrap
 # category: Wearable
-description: Write your narratives faster and more confidently.
+description: Scan your ePCR based on a set of state and national standards as well as configurable protocols.
 
 ---
