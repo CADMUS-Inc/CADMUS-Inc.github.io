@@ -40,6 +40,17 @@ people:
     - title: facebook
       url: #
     - title: google-plus
+      url: #2
+
+- name: Mihir Nagaraj
+  pic: 4
+  position: Product Engineer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
