@@ -67,9 +67,9 @@ social:
     url: www.cadmusanalytics.com
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 400 West Lake Ave NW
-  - line: Atlanta, GA 30318
+# address:
+#   - line: 400 West Lake Ave NW
+#   - line: Atlanta, GA 30318
 
 # Build settings
 markdown: kramdown
