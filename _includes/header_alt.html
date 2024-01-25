@@ -10,7 +10,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand page-scroll" href="#page-top">
-                    <img src="img/logo-white-low.png" alt="Logo" class="img-responsive">
+                    <img src="{{ site.baseurl }}/img/logo-white-low.png" class="img-responsive">
                 </a>
             </div>
 
@@ -21,20 +21,8 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#services">Value</a>
+                        <a href="{{ site.baseurl }}/">Home</a>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="#portfolio">Demo</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#about">About</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#team">Team</a>
-                    </li>
-                    <!-- <li>
-                        <a href="{{ site.baseurl }}/blog">Blog</a>
-                    </li> -->
                     <!-- <li>
                         <a class="page-scroll" href="#contact">Contact</a>
                     </li> -->
@@ -50,8 +38,7 @@
         <div class="container">
             <div class="intro-text">
                 <!-- <div class="intro-lead-in">Welcome To Our Studio!</div> -->
-                <div class="intro-heading">Accelerating the EMS Workflow with AI</div>
-                <a href="#services" class="page-scroll btn btn-xl">Tell Me More</a>
+                <div class="intro-heading">{{ page.title }}</div>
             </div>
         </div>
     </header>
