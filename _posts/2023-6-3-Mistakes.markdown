@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      New Post
+title:      Common PCR Mistakes
 author:     Brad Greer
 tags: 	   	post template
-subtitle:  	Some Short Description of Post
+subtitle:  	Here is a list of the most common PCR mistakes that we see
 category:  interest_2
 
 theme: night
@@ -106,15 +106,5 @@ Head over to the [documentation page](https://projectpages.github.io/ppguide/) f
 <p align="center">This text is centered.</p>
 
 <p style="color:red">This is a red text with <span style="color:blue">blue</span> and <span style="color:green">green</span> inline text.</p>
-
-# Some Advanced Features
-
-## Data Projector
-
-<embed src="/2016/05/02/New-Projector/" height="500px" width="100%">
-
-## STL
-
-<div align="center"><script src="https://embed.github.com/view/3d/projectpages/project-pages/gh-pages/stl/test.stl"></script></div>
 
 

@@ -6,6 +6,14 @@ layout: default
 
 <link rel="stylesheet" href="{{ site.baseurl }}/style.css" id="theme"> <!-- This is where THEME --> 
 
+<style>
+  .post-preview {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%; /* You can adjust the width as needed */
+  }
+</style>
+
 {% for post in site.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
@@ -18,9 +26,6 @@ layout: default
         {% endif %}
     </a>
     <p class="post-meta" style="margin-bottom:5px">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
-  <div class="notepad-index-post-tags" style="">
-    {% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag" style="color: #E78D0C;">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
-  </div>
 </div>
 <hr>
 {% endfor %}
