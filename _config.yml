@@ -9,20 +9,9 @@ description: "AI Tools for EMS"
 
 # Team names, titles and social links
 people:
-- name: Auveed Rokhsaz
-  pic: 1
-  position: Software Engineer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
 - name: Brad Greer
-  pic: 2
-  position: Admin | Outreach
+  pic: 1
+  position: Founder
   social:
     - title: twitter
       url: #
@@ -30,10 +19,9 @@ people:
       url: #
     - title: linkedin
       url: #
-
 - name: Kevin Ge
-  pic: 3
-  position: Project Manager
+  pic: 2
+  position: Founder
   social:
     - title: twitter
       url: #
@@ -41,17 +29,6 @@ people:
       url: #
     - title: google-plus
       url: #2
-
-- name: Mihir Nagaraj
-  pic: 4
-  position: Product Engineer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
